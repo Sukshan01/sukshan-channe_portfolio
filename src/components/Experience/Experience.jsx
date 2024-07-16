@@ -18,8 +18,7 @@ const Experience = () => {
                 <div key={id} className='skill'>
 
                     <div className='skillImageContainer'>
-                        {/* <img src={skill.imageSrc} alt='Skills'/> */}
-                        {/* <img src={images.htmlIcon} alt='Skills'/> */}
+                        
 
                         <img src={require(`../../${skill.imageSrc}`)} alt='Skills'/>
 

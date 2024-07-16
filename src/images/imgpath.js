@@ -1,7 +1,7 @@
 const images = {
-    menuIcon : require('./menuIcon.png'),
+    menuIcon : require('./nav/menuIcon.png'),
     about : require('./about/aboutImage.png'),
-    closeIcon : require('./closeIcon.png'),
+    closeIcon : require('./nav/closeIcon.png'),
     heroImg : require('./hero/heroImage.png'),
     aboutImg : require('./about/aboutImage.png'),
     cursorIcon : require('./about/cursorIcon.png'),

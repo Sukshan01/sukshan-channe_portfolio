@@ -1,10 +1,11 @@
 import React from 'react'
 
-import images from '../../images/imgpath';
-
 import "./Profile.css";
 
 const Profile = () => {
+
+
+  const profilePic = process.env.REACT_APP_IMAGE_URL;
 
 
   const handleDownloadResume = () => {
@@ -33,7 +34,7 @@ const Profile = () => {
 
     </div>
 
-    <img src={images.pic3} alt="Sukshan's" className='heroImage'/>
+    <img src={profilePic} alt="Sukshan's" className='heroImage'/>
 
     <div className='topBlur' />
     <div className='bottomBlur' />

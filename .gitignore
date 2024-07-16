@@ -7,13 +7,14 @@
 .pnp.js
 
 # /src/images/
-/src/images/hero/pic3.png
+# /src/images/hero/pic3.png
 
 
 
-/src/images/logo/
-
-
+# /src/images/logo/
+/public/logo-no-background.png
+/public/pic3.png
+/public/logo.png
 # testing
 /coverage
 

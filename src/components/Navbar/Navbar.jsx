@@ -6,6 +6,8 @@ import "./Navbar.css"
 
 const Navbar = () => {
 
+    const logo = process.env.REACT_APP_LOGO;
+
 
     const handleLogoClick = () => {
         window.location.href = '/';
@@ -15,7 +17,7 @@ const Navbar = () => {
 
   return (
     <nav className= "navbar">
-        <img src={images.logo} alt="LOGO" className='navbar-logo' onClick={handleLogoClick}/>
+        <img src={logo} alt="LOGO" className='navbar-logo' onClick={handleLogoClick}/>
 
         <div className="navbar-menu">
             

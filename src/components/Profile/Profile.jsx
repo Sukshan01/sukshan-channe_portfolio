@@ -1,13 +1,10 @@
 import React from 'react'
-import images from '../../images/imgpath'
+
+import images from '../../images/imgpath';
 
 import "./Profile.css";
 
 const Profile = () => {
-
-  const image_url = process.env.REACT_APP_IMAGE_URL;
-
-  console.log(image_url);
 
 
   const handleDownloadResume = () => {

@@ -1,0 +1,71 @@
+
+
+[
+  {
+    "title": "JAVA",
+    "imageSrc": "images/skills/Java-Logo.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "images/skills/C_Logo.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "images/skills/sql.jpg"
+  },
+    {
+      "title": "HTML",
+      "imageSrc": "images/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "images/skills/css.png"
+    },
+    {
+      "title": "JAVASCRIPT",
+      "imageSrc": "images/skills/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "images/skills/react.png"
+    },
+    {
+      "title": "Express",
+      "imageSrc": "images/skills/express_js.png"
+    },
+
+    
+    {
+      "title": "Node",
+      "imageSrc": "images/skills/node.png"
+    },
+    {
+      "title": "Git & GitHub",
+      "imageSrc": "images/skills/Git_and_GitHub.PNG"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "images/skills/aws.png"
+    },
+
+    
+    
+    
+   
+    {
+      "title": "GraphQL",
+      "imageSrc": "images/skills/graphql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "images/skills/mongodb.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "images/skills/bootstrap.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "images/skills/figma.png"
+    }
+  ]

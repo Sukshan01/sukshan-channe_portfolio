@@ -1,0 +1,22 @@
+[
+    {
+      "role": "Frontend Engineer Intern",
+      "organisation": "Raymond UCO Denim Pvt. Ltd.",
+      "startDate": "Jan, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on Optimizing Maintenance Module","Worked on Automated Scheduling and Tracking of machines","Created Responsive Dashboard for report Generation and Analysis.", "Reduced load times by 50%"],
+      "imageSrc": "images/history/raymondlogo.png"
+    },
+    {
+      "role": "Full Stack Developer Intern",
+      "organisation": "Indian Institute of Information Technology Vadodara",
+      "startDate": "May, 2023",
+      "endDate": "July, 2023",
+      "experiences": ["Worked on MERN STACK", "Developed LocalServ website with MERN stack, featuring authentication and a user-service matching algorithm.", "Worked on connecting users and local services through data-driven decision making."],
+      "imageSrc": "images/history/iiitv_logo.png"
+    }
+    
+   
+
+    
+  ]

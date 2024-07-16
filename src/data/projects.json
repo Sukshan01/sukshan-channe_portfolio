@@ -1,0 +1,58 @@
+[
+    {
+      "title": "TechStack",
+      "imageSrc": "images/projects/techstack.png",
+      "description": "A platform for ad-free online tutorials, movies, podcasts & much more. Enjoy seamless, uninterrupted learning and entertainment!",
+      "skills": ["React JS", "Material-UI", "TypeScript", "CSS"],
+      "demo": "https://techstackorg.netlify.app/",
+      "source": "https://github.com/Sukshan01/TechStack_video-streaming-platform"
+    },
+    {
+      "title": "MoviePicks",
+      "imageSrc": "images/projects/moviepicks.png",
+      "description": "Your ultimate destination for discovering top-rated and trending movies with ratings and reviews. Find all the best films in one place!",
+      "skills": ["React JS", "JavaScript", "IMDB API", "CSS"],
+      "demo": "https://moviepicks.netlify.app/",
+      "source": "https://github.com/Sukshan01/MoviePicks-Movie-Recommendation-Platform"
+    },
+    {
+      "title": "ShopEasy",
+      "imageSrc": "images/projects/shopeasy.png",
+      "description": "A one-stop e-commerce destination for women's, men's, and kids' fashion. Simplifying your online shopping experience!",
+      "skills": ["MongoDB", "Express JS", "React JS", "Node JS"],
+      "demo": "https://shopeasyorg.netlify.app/",
+      "source": "https://github.com/Sukshan01/ShopEasy-ecommerce_web_application/tree/master"
+    },
+    {
+      "title": "Sukshan's Portfolio",
+      "imageSrc": "images/projects/portfolio.png",
+      "description": "A stunning portfolio showcasing my technical skills, projects, work experience, and contact details. Explore my professional journey!",
+      "skills": ["React JS", "CSS", "API Creation"],
+      "demo": "https://techstackorg.netlify.app/",
+      "source": "https://github.com/Sukshan01/TechStack_video-streaming-platform"
+    },
+    {
+      "title": "QuoteVerse",
+      "imageSrc": "images/projects/quoteverse.png",
+      "description": "Your go-to quote generator for endless inspiration. Easily discover and create unlimited quotes to brighten your day and spark creativity!",
+      "skills": ["React JS", "JS", "CSS", "Advice Slip JSON API"],
+      "demo": "https://quoteverseorg.netlify.app/",
+      "source": "https://github.com/Sukshan01/QuoteVerse-quote-generator"
+    },
+    {
+      "title": "Connectify",
+      "imageSrc": "images/projects/connectify.png",
+      "description": "Connect through live chatting and photo sharing. Enjoy seamless communication and share moments. Stay close, stay connected!",
+      "skills": ["React JS", "Rapid API", "Chat Engine"],
+      "demo": "https://connectifyorg.netlify.app/",
+      "source": "https://github.com/Sukshan01/Connectify-chat_application"
+    },
+    {
+      "title": "KeepItAll",
+      "imageSrc": "images/projects/keepitall.png",
+      "description": "A stunning keeper app for securely storing your notes and important keeps. Keep everything safe and organized!",
+      "skills": ["MongoDB", "Express JS", "React JS", "Node JS"],
+      "demo": "https://keepitall.netlify.app/",
+      "source": "https://github.com/Sukshan01/KeepItAll-keeper_application"
+    }
+  ]

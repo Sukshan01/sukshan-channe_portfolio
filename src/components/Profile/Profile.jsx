@@ -5,7 +5,7 @@ import "./Profile.css";
 const Profile = () => {
 
 
-  const profilePic = process.env.REACT_APP_IMAGE_URL;
+  const profilePic = process.env.REACT_APP_IMAGE_URL
 
 
   const handleDownloadResume = () => {
@@ -17,8 +17,8 @@ const Profile = () => {
     <div className='profile-content'>
      <h1 className='profile-title'>Hi, I'm Sukshan</h1> 
      <p className='profile-description'>
-     A passionate and dedicated undergraduate student pursuing my studies at the prestigious Indian Institute of Information Technology Vadodara. 
-     Proficient in ReactJS, Java, Node.js, and Express.js, I'm passionate about crafting innovative software solutions. With expertise in Frontend and Backend Development, backed by solid knowledge of Data Structures and Algorithms, I'm driven to make a significant impact in the Tech Industry.
+     A passionate graduate from the prestigious Indian Institute of Information Technology Vadodara, I am proficient in ReactJS,
+     Java, Node.js, and Express.js. With expertise in both Frontend and Backend Development, and a solid foundation in Data Structures & Algorithms, I'm driven to make a significant impact in the Tech Industry.
 
      </p>
 

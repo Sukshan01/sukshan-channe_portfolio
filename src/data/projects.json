@@ -27,9 +27,9 @@
       "title": "Sukshan's Portfolio",
       "imageSrc": "images/projects/portfolio.png",
       "description": "A stunning portfolio showcasing my technical skills, projects, work experience, and contact details. Explore my professional journey!",
-      "skills": ["React JS", "CSS", "API Creation"],
-      "demo": "https://techstackorg.netlify.app/",
-      "source": "https://github.com/Sukshan01/TechStack_video-streaming-platform"
+      "skills": ["React JS", "CSS", "Figma"],
+      "demo": "https://sukshanchanne.netlify.app/",
+      "source": "https://github.com/Sukshan01/sukshan-channe_portfolio"
     },
     {
       "title": "QuoteVerse",

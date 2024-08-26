@@ -1,8 +1,19 @@
 [
+    
+  {
+    "title": "FoodVerse",
+    "imageSrc": "images/projects/foodverse.png",
+    "description": "A full-stack food delivery web application for easy online ordering. Boost local vendor's business with a secure, hassle-free experience!",
+    "skills": ["MongoDB", "ExpressJS", "ReactJS", "NodeJS"],
+    "demo": "https://foodverseorg.netlify.app/",
+    "source": "https://github.com/Sukshan01/FoodVerse-food-ordering-delivery-platform"
+  },  
+
+
     {
       "title": "TechStack",
       "imageSrc": "images/projects/techstack.png",
-      "description": "A platform for ad-free online tutorials, movies, podcasts & much more. Enjoy seamless, uninterrupted learning and entertainment!",
+      "description": "An ad-free platform for online tutorials, movies, podcasts, and more. Enjoy seamless, uninterrupted learning and endless entertainment!",
       "skills": ["React JS", "Material-UI", "TypeScript", "CSS"],
       "demo": "https://techstackorg.netlify.app/",
       "source": "https://github.com/Sukshan01/TechStack_video-streaming-platform"

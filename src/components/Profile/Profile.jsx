@@ -10,7 +10,7 @@ const Profile = () => {
 
   const handleDownloadResume = () => {
 
-    const resumeUrl = 'https://drive.google.com/file/d/1jAQTbHdxnhrAtEu8zSdXQ-FLz3qfi7aZ/view?usp=sharing';
+    const resumeUrl = 'https://drive.google.com/file/d/1FUtT9TRdI5ROhFGi2czL1BaYi43JThZ1/view?usp=sharing';
     window.open(resumeUrl, '_blank');
   }
   return <section className='profile-container'>
